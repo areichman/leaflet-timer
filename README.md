@@ -1,7 +1,4 @@
-leaflet-timer
-=============
-
-Fire an 'updatelayer' event at a specified interval to notify layers to update
+# leaflet-timer
 
 ## Usage
 ```javascript
